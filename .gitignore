@@ -4,6 +4,7 @@ mymemdb*
 *.iml
 .idea
 .idea/*
+.testing_git
 
 # Created by https://www.gitignore.io/api/intellij
 
